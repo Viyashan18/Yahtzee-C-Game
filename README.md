@@ -1,27 +1,44 @@
-# Yahtzee Console Game (C)
+# 🎲 Yahtzee Console Game in C
 
-A simple console-based Yahtzee game developed using the C programming language.
+A simple console-based Yahtzee game developed using the C programming language. The game includes dice rolling, score calculation, and a basic AI opponent.
 
 ---
 
-## 🎮Features
-*13-round Yahtzee gameplay
-*Dice rolling and reroll system
-*Score calculation for different categories
-*Basic AI opponent
-*Simple console interface
+## 🎮 Game Features
+
+- 13-round Yahtzee gameplay
+- Dice rolling and reroll system
+- Scoreboard for different categories
+- Simple AI opponent
+- Easy console interface
+
+---
+
+## 🤖 AI System
+
+The AI player makes simple decisions by keeping higher-value dice and rerolling others to get better scores.
 
 ---
 
 ## 💻 Technologies Used
-*C Language
-*Standard C Libraries
+
+- C Programming Language
+- Standard C Libraries
+
 ---
 
 ## 📂 Project Files
-* 'Code.c' – Main game source code
-* 'README.md' – Project information
+
+- `Code.c` – Main game source code
+- `README.md` – Project details
+
 ---
 
-## About
-This project was created to improve programming logic, game development skills, and understanding of C language concepts.
+## 🎯 Project Purpose
+
+This project was created to improve programming logic, problem-solving skills, and understanding of C language concepts.
+
+---
+
+### 👨‍💻 Created By
+Viyashan.K
