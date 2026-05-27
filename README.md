@@ -4,7 +4,7 @@ A simple console-based Yahtzee game developed using the C programming language.
 
 ---
 
-##🎮Features
+## 🎮Features
 13-round Yahtzee gameplay
 Dice rolling and reroll system
 Score calculation for different categories
@@ -13,7 +13,7 @@ Simple console interface
 
 ---
 
-💻 Technologies Used
+## 💻 Technologies Used
 C Language
 Standard C Libraries
 ---
@@ -23,5 +23,5 @@ Code.c – Main game source code
 README.md – Project information
 ---
 
-MAbout
+## About
 This project was created to improve programming logic, game development skills, and understanding of C language concepts.
