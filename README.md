@@ -30,7 +30,7 @@ The AI player makes simple decisions by keeping higher-value dice and rerolling 
 ## 📂 Project Files
 
 - `Code.c` – Main game source code
-- `README.md` – Project details
+- `game report.pdf ` – The project full details
 
 ---
 
