@@ -5,22 +5,22 @@ A simple console-based Yahtzee game developed using the C programming language.
 ---
 
 ## 🎮Features
-13-round Yahtzee gameplay
-Dice rolling and reroll system
-Score calculation for different categories
-Basic AI opponent
-Simple console interface
+*13-round Yahtzee gameplay
+*Dice rolling and reroll system
+*Score calculation for different categories
+*Basic AI opponent
+*Simple console interface
 
 ---
 
 ## 💻 Technologies Used
-C Language
-Standard C Libraries
+*C Language
+*Standard C Libraries
 ---
 
 ## 📂 Project Files
-Code.c – Main game source code
-README.md – Project information
+* 'Code.c' – Main game source code
+* 'README.md' – Project information
 ---
 
 ## About
